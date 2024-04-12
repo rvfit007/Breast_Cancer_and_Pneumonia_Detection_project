@@ -1,0 +1,2 @@
+Pneumonia_Dataset = https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+Breast_cancer_Dataset = https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
